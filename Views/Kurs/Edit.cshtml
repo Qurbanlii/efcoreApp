@@ -1,8 +1,9 @@
 @model Kurs
 
-<h2>Kurs Ekle</h2>
+<h2>Kurs Guncelle</h2>
 <hr>
-<form asp-controller="Kurs" asp-action="Create" method="post">
+<form asp-controller="Kurs" asp-action="Edit" method="post">
+    <input type="hidden" asp-for="KursId">
     <div class="mb-3">
         <label asp-for="Baslik" class="form-label">Baslik</label>
         <input asp-for="Baslik" class="form-control">

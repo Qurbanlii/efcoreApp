@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ihPlND+kvsM=",
+  "dgSpecHash": "BFhxnDMxPwY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aliqu\\efcoreApp\\efcoreApp.csproj",
+  "projectFilePath": "C:\\Users\\aliqu\\Desktop\\Ders\\efcoreApp\\efcoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aliqu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\aliqu\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.8\\microsoft.data.sqlite.core.7.0.8.nupkg.sha512",

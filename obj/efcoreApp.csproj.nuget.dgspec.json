@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliqu\\efcoreApp\\efcoreApp.csproj": {}
+    "C:\\Users\\aliqu\\Desktop\\Ders\\efcoreApp\\efcoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliqu\\efcoreApp\\efcoreApp.csproj": {
+    "C:\\Users\\aliqu\\Desktop\\Ders\\efcoreApp\\efcoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliqu\\efcoreApp\\efcoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\aliqu\\Desktop\\Ders\\efcoreApp\\efcoreApp.csproj",
         "projectName": "efcoreApp",
-        "projectPath": "C:\\Users\\aliqu\\efcoreApp\\efcoreApp.csproj",
+        "projectPath": "C:\\Users\\aliqu\\Desktop\\Ders\\efcoreApp\\efcoreApp.csproj",
         "packagesPath": "C:\\Users\\aliqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliqu\\efcoreApp\\obj\\",
+        "outputPath": "C:\\Users\\aliqu\\Desktop\\Ders\\efcoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
